@@ -1,0 +1,11 @@
+name: "Douban Data Sync"
+author: "binjoo"
+description: "douban data sync to json action"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "activity"
+  color: "green"

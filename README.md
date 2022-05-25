@@ -1,1 +1,1 @@
-# hexo-blog-douban-action
+# douban data sync for GitHub Actions
